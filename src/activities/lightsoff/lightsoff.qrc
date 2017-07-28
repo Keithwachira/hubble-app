@@ -1,0 +1,15 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/lightsoff">
+		<file>ActivityInfo.qml</file>
+		<file>Lightsoff.qml</file>
+		<file>lightsoff.svg</file>
+		<file>lightsoff.js</file>
+		<file>resource/building.svg</file>
+		<file>resource/sun.svg</file>
+		<file>resource/tux.svg</file>
+		<file>resource/off.svg</file>
+		<file>resource/back.svg</file>
+		<file>resource/front.svg</file>
+		<file>resource/on.svg</file>
+	</qresource>
+</RCC>

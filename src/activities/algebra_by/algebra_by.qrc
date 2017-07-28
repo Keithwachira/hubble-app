@@ -1,0 +1,11 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/algebra_by">
+		<file>Algebra.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>AlgebraBy.qml</file>
+		<file>AlgebraText.qml</file>
+		<file>algebra_by.svg</file>
+		<file>algebra.js</file>
+		<file>resource/background.svg</file>
+	</qresource>
+</RCC>

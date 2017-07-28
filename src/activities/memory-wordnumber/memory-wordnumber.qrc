@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory-wordnumber">
+		<file>ActivityInfo.qml</file>
+		<file>MemoryWordnumber.qml</file>
+		<file>memory-wordnumber.svg</file>
+		<file>dataset.js</file>
+		<file>resource/background.svg</file>
+	</qresource>
+</RCC>

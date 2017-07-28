@@ -1,0 +1,8 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory-math-div">
+		<file>MemoryMathDiv.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>memory-math-div.svg</file>
+		<file>memory-divdataset.js</file>
+	</qresource>
+</RCC>

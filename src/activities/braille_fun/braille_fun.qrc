@@ -1,0 +1,11 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/braille_fun">
+		<file>ActivityInfo.qml</file>
+		<file>BrailleFun.qml</file>
+		<file>braille_fun.svg</file>
+		<file>braille_fun.js</file>
+		<file>resource/target.svg</file>
+		<file>resource/hillside.svg</file>
+		<file>resource/plane.svg</file>
+	</qresource>
+</RCC>

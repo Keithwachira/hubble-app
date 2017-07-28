@@ -1,0 +1,14 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/imagename">
+		<file>ActivityInfo.qml</file>
+		<file>Imagename.qml</file>
+		<file>imagename.svg</file>
+		<file>resource/board/board5_0.qml</file>
+		<file>resource/board/board4_0.qml</file>
+		<file>resource/board/board6_0.qml</file>
+		<file>resource/board/board1_0.qml</file>
+		<file>resource/board/board2_0.qml</file>
+		<file>resource/board/board3_0.qml</file>
+		<file>resource/board/board7_0.qml</file>
+	</qresource>
+</RCC>

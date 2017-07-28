@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/land_safe">
+		<file>ControlButton.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Accelerometer.qml</file>
+		<file>LandSafe.qml</file>
+		<file>land_safe.svg</file>
+		<file>land_safe.js</file>
+		<file>resource/landing.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/arrow_right.svg</file>
+		<file>resource/arrow_up.svg</file>
+		<file>resource/ground.svg</file>
+		<file>resource/README</file>
+		<file>resource/arrow_left.svg</file>
+		<file>resource/arrow_down.svg</file>
+		<file>resource/rocket.svg</file>
+	</qresource>
+</RCC>

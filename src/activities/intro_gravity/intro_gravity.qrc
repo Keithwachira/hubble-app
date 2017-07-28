@@ -1,0 +1,24 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/intro_gravity">
+		<file>ActivityInfo.qml</file>
+		<file>Planet.qml</file>
+		<file>IntroGravity.qml</file>
+		<file>Asteroid.qml</file>
+		<file>intro_gravity.svg</file>
+		<file>intro_gravity.js</file>
+		<file>resource/asteroid2.png</file>
+		<file>resource/background.svg</file>
+		<file>resource/saturn.svg</file>
+		<file>resource/asteroid3.png</file>
+		<file>resource/arrow.svg</file>
+		<file>resource/space_shuttle.svg</file>
+		<file>resource/README</file>
+		<file>resource/neptune.svg</file>
+		<file>resource/tux_spaceship.svg</file>
+		<file>resource/asteroid4.png</file>
+		<file>resource/crash.svg</file>
+		<file>resource/asteroid0.png</file>
+		<file>resource/updown.svg</file>
+		<file>resource/asteroid1.png</file>
+	</qresource>
+</RCC>

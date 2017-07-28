@@ -1,0 +1,35 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/crane">
+		<file>Controls.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Crane.qml</file>
+		<file>crane.svg</file>
+		<file>crane.js</file>
+		<file>resource/water_spot1.svg</file>
+		<file>resource/triangle1.svg</file>
+		<file>resource/crane_up.svg</file>
+		<file>resource/crane_only.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/selected.svg</file>
+		<file>resource/arrow_right.svg</file>
+		<file>resource/arrow_up.svg</file>
+		<file>resource/water_drop1.svg</file>
+		<file>resource/bulb.svg</file>
+		<file>resource/crane_vertical.svg</file>
+		<file>resource/letter-b.svg</file>
+		<file>resource/water_spot2.svg</file>
+		<file>resource/tux.svg</file>
+		<file>resource/triangle2.svg</file>
+		<file>resource/rectangle1.svg</file>
+		<file>resource/rectangle2.svg</file>
+		<file>resource/arrow_left.svg</file>
+		<file>resource/command.svg</file>
+		<file>resource/square2.svg</file>
+		<file>resource/water_drop2.svg</file>
+		<file>resource/arrow_down.svg</file>
+		<file>resource/crane-wire.svg</file>
+		<file>resource/letters</file>
+		<file>resource/square1.svg</file>
+		<file>resource/letter-a.svg</file>
+	</qresource>
+</RCC>

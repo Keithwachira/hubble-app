@@ -1,0 +1,18 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/checkers">
+		<file>Checkers.qml</file>
+		<file>Piece.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>checkers.svg</file>
+		<file>engine.js</file>
+		<file>checkers.js</file>
+		<file>resource/background-wood.svg</file>
+		<file>resource/bk.svg</file>
+		<file>resource/checkers-white.svg</file>
+		<file>resource/w.svg</file>
+		<file>resource/wk.svg</file>
+		<file>resource/COPYRIGHT</file>
+		<file>resource/b.svg</file>
+		<file>resource/checkers-black.svg</file>
+	</qresource>
+</RCC>

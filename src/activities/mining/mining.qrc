@@ -1,0 +1,20 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/mining">
+		<file>Mining.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>mining.svg</file>
+		<file>mining.js</file>
+		<file>resource/stone4.svg</file>
+		<file>resource/rockwall.svg</file>
+		<file>resource/gold_nugget.svg</file>
+		<file>resource/sparkle.svg</file>
+		<file>resource/vertical_border.svg</file>
+		<file>resource/stone3.svg</file>
+		<file>resource/gold_carriage.svg</file>
+		<file>resource/stone1.svg</file>
+		<file>resource/stone2.svg</file>
+		<file>resource/horizontal_border.svg</file>
+		<file>resource/realrainbow.ogg</file>
+		<file>resource/pickaxe.ogg</file>
+	</qresource>
+</RCC>

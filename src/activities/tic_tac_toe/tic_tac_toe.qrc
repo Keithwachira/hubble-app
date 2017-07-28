@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/tic_tac_toe">
+		<file>TicTacToe.qml</file>
+		<file>Piece.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>tic_tac_toe.svg</file>
+		<file>tic_tac_toe.js</file>
+		<file>resource/cross.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/board.svg</file>
+		<file>resource/player_2.svg</file>
+		<file>resource/player_1.svg</file>
+		<file>resource/score_1.svg</file>
+		<file>resource/README</file>
+		<file>resource/score_2.svg</file>
+		<file>resource/circle.svg</file>
+		<file>resource/click.wav</file>
+	</qresource>
+</RCC>

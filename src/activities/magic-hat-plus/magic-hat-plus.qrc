@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/magic-hat-plus">
+		<file>ActivityInfo.qml</file>
+		<file>MagicHatPlus.qml</file>
+		<file>magic-hat-plus.svg</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,35 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/lang">
+		<file>ActivityInfo.qml</file>
+		<file>SpellIt.qml</file>
+		<file>Lang.qml</file>
+		<file>ImageReview.qml</file>
+		<file>Quiz.qml</file>
+		<file>MenuScreen.qml</file>
+		<file>lang.svg</file>
+		<file>lang.js</file>
+		<file>spell_it.js</file>
+		<file>lang_api.js</file>
+		<file>quiz.js</file>
+		<file>resource/content-sk.json</file>
+		<file>resource/datasetToPo.py</file>
+		<file>resource/content-es.json</file>
+		<file>resource/content-uk.json</file>
+		<file>resource/content-it.json</file>
+		<file>resource/imageid_frame.svg</file>
+		<file>resource/content-sv.json</file>
+		<file>resource/words_sample.json</file>
+		<file>resource/content-en.json</file>
+		<file>resource/content-pt_BR.json</file>
+		<file>resource/content-gd.json</file>
+		<file>resource/words_sample</file>
+		<file>resource/content-ca.json</file>
+		<file>resource/content-pl.json</file>
+		<file>resource/imageid-bg.svg</file>
+		<file>resource/content-be.json</file>
+		<file>resource/content-ro.json</file>
+		<file>resource/words.json</file>
+		<file>resource/content-fr.json</file>
+		<file>resource/content-de.json</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/fifteen">
+		<file>Fifteen.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>fifteen.svg</file>
+		<file>fifteen.js</file>
+		<file>resource/background.svg</file>
+		<file>resource/Coastal_Path.svg</file>
+		<file>resource/Fishing_Boat_Scene.svg</file>
+		<file>resource/README</file>
+		<file>resource/blueframe.svg</file>
+	</qresource>
+</RCC>

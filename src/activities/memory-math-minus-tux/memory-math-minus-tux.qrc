@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory-math-minus-tux">
+		<file>MemoryMathMinusTux.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>memory-math-minus-tux.svg</file>
+	</qresource>
+</RCC>

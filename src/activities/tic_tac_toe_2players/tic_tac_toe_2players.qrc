@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/tic_tac_toe_2players">
+		<file>ActivityInfo.qml</file>
+		<file>Tic_tac_toe_2players.qml</file>
+		<file>tic_tac_toe_2players.svg</file>
+	</qresource>
+</RCC>

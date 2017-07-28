@@ -1,0 +1,24 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/colors">
+		<file>ActivityInfo.qml</file>
+		<file>FindIt.qml</file>
+		<file>Colors.qml</file>
+		<file>ColorItem.qml</file>
+		<file>colors.svg</file>
+		<file>findit.js</file>
+		<file>colors.js</file>
+		<file>resource/purple_duck.svg</file>
+		<file>resource/pink_duck.svg</file>
+		<file>resource/black_duck.svg</file>
+		<file>resource/green_duck.svg</file>
+		<file>resource/yellow_duck.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/blue_duck.svg</file>
+		<file>resource/red_duck.svg</file>
+		<file>resource/orange_duck.svg</file>
+		<file>resource/white_duck.svg</file>
+		<file>resource/brown_duck.svg</file>
+		<file>resource/checkError.svg</file>
+		<file>resource/grey_duck.svg</file>
+	</qresource>
+</RCC>

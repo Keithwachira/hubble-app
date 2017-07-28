@@ -1,0 +1,10 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/roman_numerals">
+		<file>ActivityInfo.qml</file>
+		<file>RomanNumerals.qml</file>
+		<file>roman_numerals.svg</file>
+		<file>resource/torrazzo-crema.svg</file>
+		<file>resource/arcs.svg</file>
+		<file>resource/README</file>
+	</qresource>
+</RCC>

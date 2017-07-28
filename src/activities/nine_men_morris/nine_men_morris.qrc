@@ -1,0 +1,25 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/nine_men_morris">
+		<file>DragPoint.qml</file>
+		<file>Piece.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>NineMenMorris.qml</file>
+		<file>nine_men_morris.svg</file>
+		<file>nine_men_morris.js</file>
+		<file>resource/tutorial5.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/KonqiWhite.svg</file>
+		<file>resource/tutorial3.svg</file>
+		<file>resource/board.svg</file>
+		<file>resource/score_1.svg</file>
+		<file>resource/README</file>
+		<file>resource/score_2.svg</file>
+		<file>resource/tutorial1.svg</file>
+		<file>resource/click.wav</file>
+		<file>resource/tutorial2.svg</file>
+		<file>resource/tutorial4.svg</file>
+		<file>resource/TuxBlack.svg</file>
+		<file>resource/white_piece.svg</file>
+		<file>resource/black_piece.svg</file>
+	</qresource>
+</RCC>

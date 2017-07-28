@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/align4">
+		<file>Align4.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>align4.svg</file>
+	</qresource>
+</RCC>

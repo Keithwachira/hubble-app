@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/nine_men_morris_2players">
+		<file>ActivityInfo.qml</file>
+		<file>NineMenMorris2players.qml</file>
+		<file>nine_men_morris_2players.svg</file>
+	</qresource>
+</RCC>

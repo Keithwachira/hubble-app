@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/simplepaint">
+		<file>Simplepaint.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>PaintItem.qml</file>
+		<file>simplepaint.svg</file>
+		<file>simplepaint.js</file>
+	</qresource>
+</RCC>

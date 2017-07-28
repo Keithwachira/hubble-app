@@ -1,0 +1,28 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/explore_world_music">
+		<file>ExploreWorldMusic.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>explore_world_music.svg</file>
+		<file>resource/board/board1.qml</file>
+		<file>resource/music/italy.jpg</file>
+		<file>resource/music/ireland.jpg</file>
+		<file>resource/music/suitcase.svg</file>
+		<file>resource/music/mexico.jpg</file>
+		<file>resource/music/japan.jpg</file>
+		<file>resource/music/australia.jpg</file>
+		<file>resource/music/beethoven.ogg</file>
+		<file>resource/music/middleeast.jpg</file>
+		<file>resource/music/mexico.ogg</file>
+		<file>resource/music/africa.ogg</file>
+		<file>resource/music/america.ogg</file>
+		<file>resource/music/australia.ogg</file>
+		<file>resource/music/middleeast.ogg</file>
+		<file>resource/music/italy.ogg</file>
+		<file>resource/music/japan.ogg</file>
+		<file>resource/music/africa.jpg</file>
+		<file>resource/music/orchestra.jpg</file>
+		<file>resource/music/ireland.ogg</file>
+		<file>resource/music/content.svg</file>
+		<file>resource/music/america.jpg</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/smallnumbers2">
+		<file>Smallnumbers2.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>smallnumbers2.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/default-en.json</file>
+	</qresource>
+</RCC>

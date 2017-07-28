@@ -1,0 +1,28 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/explore_world_animals">
+		<file>ActivityInfo.qml</file>
+		<file>ExploreWorldAnimals.qml</file>
+		<file>explore_world_animals.svg</file>
+		<file>resource/board/board2.qml</file>
+		<file>resource/board/board1.qml</file>
+		<file>resource/board/board3.qml</file>
+		<file>resource/animals/jaggy.jpg</file>
+		<file>resource/animals/polar_bear.jpg</file>
+		<file>resource/animals/bison.jpg</file>
+		<file>resource/animals/hedgy.jpg</file>
+		<file>resource/animals/koala.jpg</file>
+		<file>resource/animals/scarlet_macaw.jpg</file>
+		<file>resource/animals/giraffe.jpg</file>
+		<file>resource/animals/lemur.jpg</file>
+		<file>resource/animals/tux.svg</file>
+		<file>resource/animals/README</file>
+		<file>resource/animals/dragon.jpg</file>
+		<file>resource/animals/crocodile.jpg</file>
+		<file>resource/animals/panda.jpg</file>
+		<file>resource/animals/narwhal.jpg</file>
+		<file>resource/animals/moose.jpg</file>
+		<file>resource/animals/chameleon.jpg</file>
+		<file>resource/animals/content.svg</file>
+		<file>resource/animals/kangaroo.jpg</file>
+	</qresource>
+</RCC>

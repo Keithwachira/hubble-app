@@ -1,0 +1,23 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/bargame">
+		<file>ActivityInfo.qml</file>
+		<file>Bargame.qml</file>
+		<file>bargame.svg</file>
+		<file>bargame.js</file>
+		<file>resource/background.svg</file>
+		<file>resource/ball_2.svg</file>
+		<file>resource/mask_last.svg</file>
+		<file>resource/player_2.svg</file>
+		<file>resource/player_1.svg</file>
+		<file>resource/tux1.svg</file>
+		<file>resource/score_1.svg</file>
+		<file>resource/ball_1.svg</file>
+		<file>resource/case.svg</file>
+		<file>resource/score_2.svg</file>
+		<file>resource/ball_1b.svg</file>
+		<file>resource/bar_ok.svg</file>
+		<file>resource/mask.svg</file>
+		<file>resource/case_last.svg</file>
+		<file>resource/ball_2b.svg</file>
+	</qresource>
+</RCC>

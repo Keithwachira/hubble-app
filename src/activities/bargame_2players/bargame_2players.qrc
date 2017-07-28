@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/bargame_2players">
+		<file>Bargame2players.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>bargame_2players.svg</file>
+	</qresource>
+</RCC>

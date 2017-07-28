@@ -1,0 +1,24 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/scalesboard">
+		<file>ScaleNumber.qml</file>
+		<file>Scalesboard.qml</file>
+		<file>MasseArea.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Message.qml</file>
+		<file>Question.qml</file>
+		<file>scalesboard.svg</file>
+		<file>scalesboard.js</file>
+		<file>resource/background.svg</file>
+		<file>resource/scale.svg</file>
+		<file>resource/metal_hit.wav</file>
+		<file>resource/gift.svg</file>
+		<file>resource/README</file>
+		<file>resource/masse4.svg</file>
+		<file>resource/masse5.svg</file>
+		<file>resource/masse2.svg</file>
+		<file>resource/masse1.svg</file>
+		<file>resource/plate.svg</file>
+		<file>resource/needle.svg</file>
+		<file>resource/masse3.svg</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/clickanddraw">
+		<file>Clickanddraw.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>clickanddraw.svg</file>
+		<file>clickanddraw_dataset.js</file>
+	</qresource>
+</RCC>

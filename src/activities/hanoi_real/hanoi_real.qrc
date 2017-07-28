@@ -1,0 +1,13 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/hanoi_real">
+		<file>ActivityInfo.qml</file>
+		<file>HanoiReal.qml</file>
+		<file>Highlight.qml</file>
+		<file>hanoi_real.svg</file>
+		<file>hanoi_real.js</file>
+		<file>resource/background.svg</file>
+		<file>resource/README</file>
+		<file>resource/disc.svg</file>
+		<file>resource/disc_support.svg</file>
+	</qresource>
+</RCC>

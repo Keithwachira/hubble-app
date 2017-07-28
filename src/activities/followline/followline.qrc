@@ -1,0 +1,14 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/followline">
+		<file>ActivityInfo.qml</file>
+		<file>LinePart.qml</file>
+		<file>Followline.qml</file>
+		<file>followline.svg</file>
+		<file>followline.js</file>
+		<file>resource/fireman.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/fire.svg</file>
+		<file>resource/fire_flame.svg</file>
+		<file>resource/water_spot.svg</file>
+	</qresource>
+</RCC>

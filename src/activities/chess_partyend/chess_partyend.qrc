@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/chess_partyend">
+		<file>ChessPartyEnd.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>chess_partyend.svg</file>
+	</qresource>
+</RCC>

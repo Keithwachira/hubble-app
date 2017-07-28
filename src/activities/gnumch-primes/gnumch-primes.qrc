@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/gnumch-primes">
+		<file>GnumchPrimes.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>gnumch-primes.svg</file>
+	</qresource>
+</RCC>

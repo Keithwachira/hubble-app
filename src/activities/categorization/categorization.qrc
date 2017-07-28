@@ -1,0 +1,38 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/categorization">
+		<file>ActivityInfo.qml</file>
+		<file>CategoryReview.qml</file>
+		<file>Categorization.qml</file>
+		<file>Zone.qml</file>
+		<file>MenuScreen.qml</file>
+		<file>categorization.svg</file>
+		<file>categorization.js</file>
+		<file>resource/background.svg</file>
+		<file>resource/board/category_living_beings.qml</file>
+		<file>resource/board/category_shapes.qml</file>
+		<file>resource/board/category_animals.qml</file>
+		<file>resource/board/category_food.qml</file>
+		<file>resource/board/category_tools.qml</file>
+		<file>resource/board/category_birds.qml</file>
+		<file>resource/board/category_fishes.qml</file>
+		<file>resource/board/category_colors.qml</file>
+		<file>resource/board/category_vegetables.qml</file>
+		<file>resource/board/category_nature.qml</file>
+		<file>resource/board/category_monuments.qml</file>
+		<file>resource/board/category_transports.qml</file>
+		<file>resource/board/category_alphabets.qml</file>
+		<file>resource/board/category_renewable.qml</file>
+		<file>resource/board/category_insects.qml</file>
+		<file>resource/board/category_fruits.qml</file>
+		<file>resource/board/category_odd_even.qml</file>
+		<file>resource/board/category_numbers.qml</file>
+		<file>resource/board/category_household_goods.qml</file>
+		<file>resource/images/monuments</file>
+		<file>resource/images/alphabets</file>
+		<file>resource/images/tools</file>
+		<file>resource/images/fishes</file>
+		<file>resource/images/others</file>
+		<file>resource/images/renewable</file>
+		<file>resource/images/numbers</file>
+	</qresource>
+</RCC>

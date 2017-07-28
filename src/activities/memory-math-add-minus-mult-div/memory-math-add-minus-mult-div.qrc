@@ -1,0 +1,8 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory-math-add-minus-mult-div">
+		<file>ActivityInfo.qml</file>
+		<file>MemoryMathAddMinusMultDiv.qml</file>
+		<file>memory-math-add-minus-mult-div.svg</file>
+		<file>memory-addminusmultdivdataset.js</file>
+	</qresource>
+</RCC>

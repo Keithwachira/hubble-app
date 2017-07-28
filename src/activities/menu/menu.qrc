@@ -1,0 +1,22 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/menu">
+		<file>ConfigurationItem.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Menu.qml</file>
+		<file>resource/fun.svg</file>
+		<file>resource/search-icon.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/reading.svg</file>
+		<file>resource/backgrounddd.svg</file>
+		<file>resource/all.svg</file>
+		<file>resource/math.svg</file>
+		<file>resource/computer.svg</file>
+		<file>resource/strategy.svg</file>
+		<file>resource/puzzle.svg</file>
+		<file>resource/new.svg</file>
+		<file>resource/lock.svg</file>
+		<file>resource/experience.svg</file>
+		<file>resource/all_disabled.svg</file>
+		<file>resource/discovery.svg</file>
+	</qresource>
+</RCC>

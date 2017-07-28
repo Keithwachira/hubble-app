@@ -1,0 +1,13 @@
+# Target labels
+ qml_box2d
+# Source files and their labels
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/CMakeFiles/qml_box2d
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/CMakeFiles/qml_box2d.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/CMakeFiles/qml_box2d-complete.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-install.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-mkdir.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-download.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-update.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-patch.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-configure.rule
+/home/keith/finalwork/build-GCompris-qt-Desktop_Qt_5_7_0_GCC_64bit-Release/qml_box2d-prefix/src/qml_box2d-stamp/qml_box2d-build.rule

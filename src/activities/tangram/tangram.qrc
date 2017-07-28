@@ -1,0 +1,34 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/tangram">
+		<file>RotateMouseArea.qml</file>
+		<file>Tangram.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>tangram.svg</file>
+		<file>dataset.js</file>
+		<file>tangram.js</file>
+		<file>resource/tangram/background.svg</file>
+		<file>resource/tangram/p1.svg</file>
+		<file>resource/tangram/flip.svg</file>
+		<file>resource/tangram/p4.svg</file>
+		<file>resource/tangram/p2.svg</file>
+		<file>resource/tangram/p0.svg</file>
+		<file>resource/tangram/p3.svg</file>
+		<file>resource/truck/front_road.svg</file>
+		<file>resource/truck/container.svg</file>
+		<file>resource/truck/cabin.svg</file>
+		<file>resource/truck/traffic_bg.svg</file>
+		<file>resource/truck/engine.svg</file>
+		<file>resource/truck/back_road.svg</file>
+		<file>resource/train/wood.svg</file>
+		<file>resource/train/README</file>
+		<file>resource/train/loco.svg</file>
+		<file>resource/train/coal.svg</file>
+		<file>resource/train/passenger.svg</file>
+		<file>resource/car1/headlights.svg</file>
+		<file>resource/car1/windshield.svg</file>
+		<file>resource/car1/tire_right.svg</file>
+		<file>resource/car1/car.svg</file>
+		<file>resource/car1/bumper.svg</file>
+		<file>resource/car1/grille.svg</file>
+	</qresource>
+</RCC>

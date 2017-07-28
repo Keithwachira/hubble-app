@@ -1,0 +1,11 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/football">
+		<file>Football.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>football.svg</file>
+		<file>football.js</file>
+		<file>resource/ball.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/tux_top.svg</file>
+	</qresource>
+</RCC>

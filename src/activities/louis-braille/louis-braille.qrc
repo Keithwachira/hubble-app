@@ -1,0 +1,22 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/louis-braille">
+		<file>ActivityInfo.qml</file>
+		<file>LouisBraille.qml</file>
+		<file>ReorderList.qml</file>
+		<file>louis-braille.svg</file>
+		<file>louis_braille_data.js</file>
+		<file>louis-braille.js</file>
+		<file>resource/braille_ball.jpg</file>
+		<file>resource/top_back.svg</file>
+		<file>resource/fireplace.jpg</file>
+		<file>resource/statue.jpg</file>
+		<file>resource/rnib.jpg</file>
+		<file>resource/louis.png</file>
+		<file>resource/workshop.jpg</file>
+		<file>resource/piano.svg</file>
+		<file>resource/chart.png</file>
+		<file>resource/braille.jpg</file>
+		<file>resource/teach.jpg</file>
+		<file>resource/night_printing.jpg</file>
+	</qresource>
+</RCC>

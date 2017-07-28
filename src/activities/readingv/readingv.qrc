@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/readingv">
+		<file>ActivityInfo.qml</file>
+		<file>Readingv.qml</file>
+		<file>readingv.svg</file>
+	</qresource>
+</RCC>

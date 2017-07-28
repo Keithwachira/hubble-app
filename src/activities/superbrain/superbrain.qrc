@@ -1,0 +1,20 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/superbrain">
+		<file>ActivityInfo.qml</file>
+		<file>Superbrain.qml</file>
+		<file>SearchItem.qml</file>
+		<file>superbrain.svg</file>
+		<file>superbrain.js</file>
+		<file>resource/red_heart.svg</file>
+		<file>resource/lightgreen_triangle.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/lightblue_cloud.svg</file>
+		<file>resource/darkgreen_ring.svg</file>
+		<file>resource/magenta_diamond.svg</file>
+		<file>resource/apply.svg</file>
+		<file>resource/yellow_star.svg</file>
+		<file>resource/brown_cross.svg</file>
+		<file>resource/red_circle.svg</file>
+		<file>resource/darkblue_star.svg</file>
+	</qresource>
+</RCC>

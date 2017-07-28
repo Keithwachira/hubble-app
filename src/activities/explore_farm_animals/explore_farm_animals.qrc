@@ -1,0 +1,43 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/explore_farm_animals">
+		<file>AnimalDescriptionLevels.qml</file>
+		<file>ExploreFarmAnimals.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>ExploreLevels.qml</file>
+		<file>AnimalLevels.qml</file>
+		<file>explore_farm_animals.svg</file>
+		<file>explore-level.js</file>
+		<file>resource/board/board1.qml</file>
+		<file>resource/animals/dog.ogg</file>
+		<file>resource/animals/horse.svg</file>
+		<file>resource/animals/sheep.svg</file>
+		<file>resource/animals/cow.ogg</file>
+		<file>resource/animals/dog.jpg</file>
+		<file>resource/animals/chicken.jpg</file>
+		<file>resource/animals/pig.jpg</file>
+		<file>resource/animals/cat.ogg</file>
+		<file>resource/animals/sheep.ogg</file>
+		<file>resource/animals/rooster.svg</file>
+		<file>resource/animals/horse.jpg</file>
+		<file>resource/animals/sheep.jpg</file>
+		<file>resource/animals/cow.svg</file>
+		<file>resource/animals/pig.svg</file>
+		<file>resource/animals/chicken.svg</file>
+		<file>resource/animals/duck.jpg</file>
+		<file>resource/animals/farm-animals.svg</file>
+		<file>resource/animals/cow.jpg</file>
+		<file>resource/animals/chickens.ogg</file>
+		<file>resource/animals/owl.jpg</file>
+		<file>resource/animals/pig.ogg</file>
+		<file>resource/animals/rooster.ogg</file>
+		<file>resource/animals/rooster.jpg</file>
+		<file>resource/animals/duck.ogg</file>
+		<file>resource/animals/horse.ogg</file>
+		<file>resource/animals/cat.jpg</file>
+		<file>resource/animals/duck.svg</file>
+		<file>resource/animals/dog.svg</file>
+		<file>resource/animals/owl.ogg</file>
+		<file>resource/animals/cat.svg</file>
+		<file>resource/animals/owl.svg</file>
+	</qresource>
+</RCC>

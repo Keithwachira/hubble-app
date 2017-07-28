@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/redraw">
+		<file>Redraw.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>redraw.svg</file>
+		<file>redraw.js</file>
+		<file>resource/black.svg</file>
+		<file>resource/blue.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/green.svg</file>
+		<file>resource/README</file>
+		<file>resource/orange.svg</file>
+		<file>resource/yellow.svg</file>
+		<file>resource/white.svg</file>
+		<file>resource/brush.wav</file>
+		<file>resource/eraser.wav</file>
+		<file>resource/red.svg</file>
+	</qresource>
+</RCC>

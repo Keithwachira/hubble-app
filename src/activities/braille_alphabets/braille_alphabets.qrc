@@ -1,0 +1,21 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/braille_alphabets">
+		<file>FirstScreen.qml</file>
+		<file>Screen.qml</file>
+		<file>BrailleAlphabets.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>BrailleMap.qml</file>
+		<file>BrailleChar.qml</file>
+		<file>braille_alphabets.svg</file>
+		<file>braille_alphabets.js</file>
+		<file>questions.js</file>
+		<file>resource/target.svg</file>
+		<file>resource/top_back.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/back.svg</file>
+		<file>resource/tux_braille.svg</file>
+		<file>resource/intro_bg.svg</file>
+		<file>resource/intro_braille_char.svg</file>
+		<file>resource/char_background.svg</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,23 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/color_mix">
+		<file>ColorChooser.qml</file>
+		<file>ColorButton.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>ColorMix.qml</file>
+		<file>color_mix.svg</file>
+		<file>colormix.js</file>
+		<file>resource/minus.svg</file>
+		<file>resource/background2.svg</file>
+		<file>resource/tube-cyan.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/flashlight-red.svg</file>
+		<file>resource/tube-magenta.svg</file>
+		<file>resource/tube-yellow.svg</file>
+		<file>resource/plus.svg</file>
+		<file>resource/flashlight-blue.svg</file>
+		<file>resource/brush.svg</file>
+		<file>resource/flashlight-green.svg</file>
+		<file>resource/flashlight2.svg</file>
+		<file>resource/light.svg</file>
+	</qresource>
+</RCC>

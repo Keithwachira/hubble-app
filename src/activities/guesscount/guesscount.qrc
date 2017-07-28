@@ -1,0 +1,18 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/guesscount">
+		<file>OperationRow.qml</file>
+		<file>Admin.qml</file>
+		<file>DropTile.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Tile.qml</file>
+		<file>OperandRow.qml</file>
+		<file>OperatorRow.qml</file>
+		<file>DragTile.qml</file>
+		<file>Guesscount.qml</file>
+		<file>guesscount.svg</file>
+		<file>dataset.js</file>
+		<file>guesscount.js</file>
+		<file>resource/backgroundW01.svg</file>
+		<file>resource/backgroundW02.svg</file>
+	</qresource>
+</RCC>

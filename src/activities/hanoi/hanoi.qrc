@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/hanoi">
+		<file>Hanoi.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>hanoi.svg</file>
+	</qresource>
+</RCC>

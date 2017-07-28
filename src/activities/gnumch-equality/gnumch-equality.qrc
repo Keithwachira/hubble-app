@@ -1,0 +1,28 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/gnumch-equality">
+		<file>GnumchEquality.qml</file>
+		<file>Creature.qml</file>
+		<file>TopPanel.qml</file>
+		<file>Muncher.qml</file>
+		<file>Reggie.qml</file>
+		<file>Eater.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Gnumch.qml</file>
+		<file>Monster.qml</file>
+		<file>Smarty.qml</file>
+		<file>Diaper.qml</file>
+		<file>WarnMonster.qml</file>
+		<file>Warning.qml</file>
+		<file>Fraidy.qml</file>
+		<file>CellDelegate.qml</file>
+		<file>gnumch-equality.svg</file>
+		<file>gnumch-equality.js</file>
+		<file>resource/fraidy.png</file>
+		<file>resource/eater.png</file>
+		<file>resource/diaper.png</file>
+		<file>resource/smarty.png</file>
+		<file>resource/muncher.png</file>
+		<file>resource/eat.wav</file>
+		<file>resource/reggie.png</file>
+	</qresource>
+</RCC>

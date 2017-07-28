@@ -1,0 +1,16 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/share">
+		<file>ChildWidget.qml</file>
+		<file>DropChild.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>CandyWidget.qml</file>
+		<file>Share.qml</file>
+		<file>BasketWidget.qml</file>
+		<file>WidgetOption.qml</file>
+		<file>share.svg</file>
+		<file>share.js</file>
+		<file>resource/board</file>
+		<file>resource/images</file>
+		<file>resource/README</file>
+	</qresource>
+</RCC>

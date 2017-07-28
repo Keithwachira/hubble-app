@@ -1,0 +1,32 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/traffic">
+		<file>Car.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Traffic.qml</file>
+		<file>traffic.svg</file>
+		<file>traffic.js</file>
+		<file>resource/car3.svg</file>
+		<file>resource/car15.svg</file>
+		<file>resource/truck3.svg</file>
+		<file>resource/car14.svg</file>
+		<file>resource/car13.svg</file>
+		<file>resource/car12.svg</file>
+		<file>resource/car10.svg</file>
+		<file>resource/car9.svg</file>
+		<file>resource/car11.svg</file>
+		<file>resource/truck4.svg</file>
+		<file>resource/car7.svg</file>
+		<file>resource/car1.svg</file>
+		<file>resource/car2.svg</file>
+		<file>resource/car5.svg</file>
+		<file>resource/truck2.svg</file>
+		<file>resource/car6.svg</file>
+		<file>resource/car8.svg</file>
+		<file>resource/traffic_box.svg</file>
+		<file>resource/README</file>
+		<file>resource/traffic_bg.svg</file>
+		<file>resource/truck1.svg</file>
+		<file>resource/car4.svg</file>
+		<file>resource/car.wav</file>
+	</qresource>
+</RCC>

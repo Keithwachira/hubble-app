@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory-tux">
+		<file>ActivityInfo.qml</file>
+		<file>MemoryTux.qml</file>
+		<file>memory-tux.svg</file>
+	</qresource>
+</RCC>

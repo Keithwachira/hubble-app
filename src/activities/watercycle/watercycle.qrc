@@ -1,0 +1,35 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/watercycle">
+		<file>Watercycle.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>watercycle.svg</file>
+		<file>resource/sea.svg</file>
+		<file>resource/tuxbath.svg</file>
+		<file>resource/vapor.svg</file>
+		<file>resource/waste.svg</file>
+		<file>resource/landscape.svg</file>
+		<file>resource/watertowerfill.svg</file>
+		<file>resource/showercold.svg</file>
+		<file>resource/sky.svg</file>
+		<file>resource/harbor1.wav</file>
+		<file>resource/watertower.svg</file>
+		<file>resource/apert.wav</file>
+		<file>resource/sun.svg</file>
+		<file>resource/cloud.svg</file>
+		<file>resource/bubble.wav</file>
+		<file>resource/wastewater.svg</file>
+		<file>resource/motor.svg</file>
+		<file>resource/reservoir3.svg</file>
+		<file>resource/reservoir1.svg</file>
+		<file>resource/rain.svg</file>
+		<file>resource/reservoir2.svg</file>
+		<file>resource/fillwater.svg</file>
+		<file>resource/harbor2.wav</file>
+		<file>resource/showerhot.svg</file>
+		<file>resource/boat.svg</file>
+		<file>resource/shower.svg</file>
+		<file>resource/river.svg</file>
+		<file>resource/tuxoff.svg</file>
+		<file>resource/boat_parked.svg</file>
+	</qresource>
+</RCC>

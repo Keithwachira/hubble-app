@@ -1,0 +1,26 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/sudoku">
+		<file>SudokuCase.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>SudokuListWidget.qml</file>
+		<file>Sudoku.qml</file>
+		<file>sudoku.svg</file>
+		<file>sudoku.js</file>
+		<file>resource/star.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/6.svg</file>
+		<file>resource/rhombus.svg</file>
+		<file>resource/5.svg</file>
+		<file>resource/README</file>
+		<file>resource/7.svg</file>
+		<file>resource/2.svg</file>
+		<file>resource/8.svg</file>
+		<file>resource/rectangle.svg</file>
+		<file>resource/circle.svg</file>
+		<file>resource/triangle.svg</file>
+		<file>resource/9.svg</file>
+		<file>resource/4.svg</file>
+		<file>resource/1.svg</file>
+		<file>resource/3.svg</file>
+	</qresource>
+</RCC>

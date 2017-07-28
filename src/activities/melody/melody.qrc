@@ -1,0 +1,18 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/melody">
+		<file>Melody.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>melody.svg</file>
+		<file>resource/xylofon.svg</file>
+		<file>resource/xylofon_part4.svg</file>
+		<file>resource/xylofon_part2.svg</file>
+		<file>resource/xylofon_part3.svg</file>
+		<file>resource/xylofon_background.svg</file>
+		<file>resource/xylofon_part1.svg</file>
+		<file>resource/xylofon_son3.ogg</file>
+		<file>resource/xylofon_son4.ogg</file>
+		<file>resource/xylofon_son1.ogg</file>
+		<file>resource/xylofon_son2.ogg</file>
+		<file>resource/xylofon_melody.ogg</file>
+	</qresource>
+</RCC>

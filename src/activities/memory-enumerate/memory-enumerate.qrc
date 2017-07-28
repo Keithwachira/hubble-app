@@ -1,0 +1,18 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory-enumerate">
+		<file>MemoryEnumerate.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>memory-enumerate.svg</file>
+		<file>dataset.js</file>
+		<file>resource/math_9.svg</file>
+		<file>resource/math_2.svg</file>
+		<file>resource/math_1.svg</file>
+		<file>resource/math_7.svg</file>
+		<file>resource/math_3.svg</file>
+		<file>resource/math_6.svg</file>
+		<file>resource/math_5.svg</file>
+		<file>resource/math_4.svg</file>
+		<file>resource/math_0.svg</file>
+		<file>resource/math_8.svg</file>
+	</qresource>
+</RCC>

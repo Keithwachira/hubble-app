@@ -1,0 +1,21 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/ballcatch">
+		<file>Ball.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Ballcatch.qml</file>
+		<file>ballcatch.svg</file>
+		<file>ballcatch.js</file>
+		<file>resource/tuxok.wav</file>
+		<file>resource/ball.svg</file>
+		<file>resource/beach2.svg</file>
+		<file>resource/beach3.svg</file>
+		<file>resource/tux.svg</file>
+		<file>resource/beach4.svg</file>
+		<file>resource/README</file>
+		<file>resource/youcannot.wav</file>
+		<file>resource/bubble.svg</file>
+		<file>resource/arrow_key.svg</file>
+		<file>resource/hand.svg</file>
+		<file>resource/beach1.svg</file>
+	</qresource>
+</RCC>

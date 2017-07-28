@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/mazerelative">
+		<file>Mazerelative.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>mazerelative.svg</file>
+	</qresource>
+</RCC>

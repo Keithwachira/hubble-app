@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Happy-Pod
+Exec=gcompris-qt
+Icon=happy
+Comment=Bundle an application as an AppDir and/or AppImage
+Terminal=true
+Categories=Development;

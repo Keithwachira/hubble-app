@@ -1,0 +1,40 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/memory">
+		<file>MemoryCommon.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>CardItem.qml</file>
+		<file>Memory.qml</file>
+		<file>memory.svg</file>
+		<file>math_util.js</file>
+		<file>memorydataset.js</file>
+		<file>memory.js</file>
+		<file>resource/21_frog.svg</file>
+		<file>resource/04_hippopotamus.svg</file>
+		<file>resource/10_chicken.svg</file>
+		<file>resource/18_gnu.svg</file>
+		<file>resource/backcard.svg</file>
+		<file>resource/11_redbird.svg</file>
+		<file>resource/03_bear.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/13_monkey.svg</file>
+		<file>resource/06_cow.svg</file>
+		<file>resource/12_wolf.svg</file>
+		<file>resource/02_pig.svg</file>
+		<file>resource/05_penguin.svg</file>
+		<file>resource/README</file>
+		<file>resource/children.svg</file>
+		<file>resource/17_lion.svg</file>
+		<file>resource/15_bluebirds.svg</file>
+		<file>resource/card_flip.wav</file>
+		<file>resource/16_elephant.svg</file>
+		<file>resource/emptycard.svg</file>
+		<file>resource/01_cat.svg</file>
+		<file>resource/20_greenbaby.svg</file>
+		<file>resource/19_bluebaby.svg</file>
+		<file>resource/07_sheep.svg</file>
+		<file>resource/09_panda.svg</file>
+		<file>resource/08_turtle.svg</file>
+		<file>resource/tux-teacher.svg</file>
+		<file>resource/14_fox.svg</file>
+	</qresource>
+</RCC>

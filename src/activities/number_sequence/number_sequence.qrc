@@ -1,0 +1,34 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/number_sequence">
+		<file>ActivityInfo.qml</file>
+		<file>NumberSequence.qml</file>
+		<file>number_sequence.svg</file>
+		<file>number_sequence_dataset.js</file>
+		<file>number_sequence.js</file>
+		<file>resource/house1.svg</file>
+		<file>resource/dn_fond1.svg</file>
+		<file>resource/greenpoint.svg</file>
+		<file>resource/carnaval1.svg</file>
+		<file>resource/sapin2.svg</file>
+		<file>resource/fish1.svg</file>
+		<file>resource/fish2.svg</file>
+		<file>resource/house2.svg</file>
+		<file>resource/hibou1.svg</file>
+		<file>resource/de2.svg</file>
+		<file>resource/blackpoint.svg</file>
+		<file>resource/plane1.svg</file>
+		<file>resource/sapin1.svg</file>
+		<file>resource/epouvantail1.svg</file>
+		<file>resource/bluepointHighlight.svg</file>
+		<file>resource/README</file>
+		<file>resource/carnaval2.svg</file>
+		<file>resource/dn_fond2.svg</file>
+		<file>resource/de1.svg</file>
+		<file>resource/bear1.svg</file>
+		<file>resource/bluepoint.svg</file>
+		<file>resource/epouvantail2.svg</file>
+		<file>resource/bear2.svg</file>
+		<file>resource/plane2.svg</file>
+		<file>resource/hibou2.svg</file>
+	</qresource>
+</RCC>

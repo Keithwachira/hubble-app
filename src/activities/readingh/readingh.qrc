@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/readingh">
+		<file>Readingh.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>readingh.svg</file>
+		<file>readingh.js</file>
+		<file>resource/reading-bg.svg</file>
+	</qresource>
+</RCC>

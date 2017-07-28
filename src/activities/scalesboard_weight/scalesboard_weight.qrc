@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/scalesboard_weight">
+		<file>ActivityInfo.qml</file>
+		<file>ScalesboardWeight.qml</file>
+		<file>scalesboard_weight.svg</file>
+	</qresource>
+</RCC>

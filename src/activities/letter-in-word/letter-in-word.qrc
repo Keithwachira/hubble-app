@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/letter-in-word">
+		<file>Card.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>LetterInWord.qml</file>
+		<file>letter-in-word.svg</file>
+		<file>letter-in-word.js</file>
+	</qresource>
+</RCC>

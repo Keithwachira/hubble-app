@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/gnumch-multiples">
+		<file>ActivityInfo.qml</file>
+		<file>GnumchMultiples.qml</file>
+		<file>gnumch-multiples.svg</file>
+	</qresource>
+</RCC>

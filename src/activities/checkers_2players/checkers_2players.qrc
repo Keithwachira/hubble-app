@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/checkers_2players">
+		<file>ActivityInfo.qml</file>
+		<file>Checkers2Players.qml</file>
+		<file>checkers_2players.svg</file>
+	</qresource>
+</RCC>

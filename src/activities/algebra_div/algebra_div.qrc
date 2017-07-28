@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/algebra_div">
+		<file>ActivityInfo.qml</file>
+		<file>AlgebraDiv.qml</file>
+		<file>algebra_div.svg</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/graph-coloring">
+		<file>Node.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>GraphColoring.qml</file>
+		<file>graph-coloring.svg</file>
+		<file>graph-coloring.js</file>
+		<file>resource/shapes/cross.svg</file>
+		<file>resource/shapes/circle_node.svg</file>
+		<file>resource/shapes/star.svg</file>
+		<file>resource/shapes/cloud.svg</file>
+		<file>resource/shapes/diamond.svg</file>
+		<file>resource/shapes/star_simple.svg</file>
+		<file>resource/shapes/ring.svg</file>
+		<file>resource/shapes/circle.svg</file>
+		<file>resource/shapes/triangle.svg</file>
+		<file>resource/shapes/heart.svg</file>
+	</qresource>
+</RCC>

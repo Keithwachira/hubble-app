@@ -1,0 +1,33 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/mosaic">
+		<file>Mosaic.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>mosaic.svg</file>
+		<file>mosaic.js</file>
+		<file>resource/die_7.svg</file>
+		<file>resource/giraffe.svg</file>
+		<file>resource/digital_die0.svg</file>
+		<file>resource/die_4.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/mushroom_house.svg</file>
+		<file>resource/white_cake.svg</file>
+		<file>resource/die_2.svg</file>
+		<file>resource/pencils_paper.svg</file>
+		<file>resource/digital_die6.svg</file>
+		<file>resource/mouse_on_cheese.svg</file>
+		<file>resource/die_0.svg</file>
+		<file>resource/die_5.svg</file>
+		<file>resource/pencil.svg</file>
+		<file>resource/digital_die4.svg</file>
+		<file>resource/pencils.svg</file>
+		<file>resource/die_3.svg</file>
+		<file>resource/digital_die3.svg</file>
+		<file>resource/digital_die7.svg</file>
+		<file>resource/aquarela_colors.svg</file>
+		<file>resource/die_1.svg</file>
+		<file>resource/digital_die5.svg</file>
+		<file>resource/digital_die1.svg</file>
+		<file>resource/digital_die2.svg</file>
+		<file>resource/die_6.svg</file>
+	</qresource>
+</RCC>

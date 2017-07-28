@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/missing-letter">
+		<file>ActivityInfo.qml</file>
+		<file>MissingLetter.qml</file>
+		<file>missing-letter.svg</file>
+		<file>missing-letter.js</file>
+		<file>resource/background.svg</file>
+	</qresource>
+</RCC>

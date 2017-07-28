@@ -1,0 +1,20 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/align4-2players">
+		<file>Piece.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Align42players.qml</file>
+		<file>align4-2players.svg</file>
+		<file>align4.js</file>
+		<file>resource/win2.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/player_2.svg</file>
+		<file>resource/stone_1.svg</file>
+		<file>resource/player_1.svg</file>
+		<file>resource/score_1.svg</file>
+		<file>resource/README</file>
+		<file>resource/stone_2.svg</file>
+		<file>resource/score_2.svg</file>
+		<file>resource/win1.svg</file>
+		<file>resource/slide.wav</file>
+	</qresource>
+</RCC>

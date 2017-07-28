@@ -1,0 +1,26 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/chess">
+		<file>Piece.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Chess.qml</file>
+		<file>chess.svg</file>
+		<file>engine.js</file>
+		<file>chess.js</file>
+		<file>resource/chess-white.svg</file>
+		<file>resource/background-wood.svg</file>
+		<file>resource/bk.svg</file>
+		<file>resource/chess-black.svg</file>
+		<file>resource/bp.svg</file>
+		<file>resource/wr.svg</file>
+		<file>resource/wb.svg</file>
+		<file>resource/wp.svg</file>
+		<file>resource/wq.svg</file>
+		<file>resource/bb.svg</file>
+		<file>resource/wk.svg</file>
+		<file>resource/COPYRIGHT</file>
+		<file>resource/bn.svg</file>
+		<file>resource/br.svg</file>
+		<file>resource/wn.svg</file>
+		<file>resource/bq.svg</file>
+	</qresource>
+</RCC>

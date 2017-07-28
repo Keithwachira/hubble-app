@@ -1,0 +1,24 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/drawnumbers">
+		<file>Drawnumbers.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>drawnumbers.svg</file>
+		<file>drawnumbers_dataset.js</file>
+		<file>resource/six1.svg</file>
+		<file>resource/greenpoint.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/blackpoint.svg</file>
+		<file>resource/eight1.svg</file>
+		<file>resource/two1.svg</file>
+		<file>resource/three1.svg</file>
+		<file>resource/bluepointHighlight.svg</file>
+		<file>resource/README</file>
+		<file>resource/seven1.svg</file>
+		<file>resource/bluepoint.svg</file>
+		<file>resource/zero1.svg</file>
+		<file>resource/four1.svg</file>
+		<file>resource/nine1.svg</file>
+		<file>resource/five1.svg</file>
+		<file>resource/one1.svg</file>
+	</qresource>
+</RCC>

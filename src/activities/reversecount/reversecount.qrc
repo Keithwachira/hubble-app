@@ -1,0 +1,36 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/reversecount">
+		<file>ActivityInfo.qml</file>
+		<file>Reversecount.qml</file>
+		<file>ChooseDiceBar.qml</file>
+		<file>Tux.qml</file>
+		<file>reversecount.svg</file>
+		<file>reversecount.js</file>
+		<file>resource/mystica_Aquarium_fish_-_Amphiprion_percula.svg</file>
+		<file>resource/The_Whale-Fish.svg</file>
+		<file>resource/pepinux_Pez_dorado.svg</file>
+		<file>resource/iceblock.svg</file>
+		<file>resource/Fish02.svg</file>
+		<file>resource/elephant_mer.svg</file>
+		<file>resource/flower3.svg</file>
+		<file>resource/phoque.svg</file>
+		<file>resource/icy_walk.wav</file>
+		<file>resource/flower1.svg</file>
+		<file>resource/flower5.svg</file>
+		<file>resource/flower0.svg</file>
+		<file>resource/README</file>
+		<file>resource/flower4.svg</file>
+		<file>resource/drunken_duck_cartoon_globefish_kugelfisch.svg</file>
+		<file>resource/Benzfish.svg</file>
+		<file>resource/narval.svg</file>
+		<file>resource/blue-fish.svg</file>
+		<file>resource/baleine.svg</file>
+		<file>resource/epaulard.svg</file>
+		<file>resource/morse.svg</file>
+		<file>resource/tux_top_south.svg</file>
+		<file>resource/molumen_Codfish.svg</file>
+		<file>resource/flower6.svg</file>
+		<file>resource/flower2.svg</file>
+		<file>resource/ourspolaire.svg</file>
+	</qresource>
+</RCC>

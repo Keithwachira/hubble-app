@@ -1,0 +1,10 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/hangman">
+		<file>Hangman.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>hangman.svg</file>
+		<file>hangman.js</file>
+		<file>resource/background.svg</file>
+		<file>resource/fog.png</file>
+	</qresource>
+</RCC>

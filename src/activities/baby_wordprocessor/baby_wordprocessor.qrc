@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/baby_wordprocessor">
+		<file>ActivityInfo.qml</file>
+		<file>BabyWordprocessor.qml</file>
+		<file>baby_wordprocessor.svg</file>
+	</qresource>
+</RCC>

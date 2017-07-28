@@ -1,0 +1,41 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/money">
+		<file>Money.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>MoneyCore.qml</file>
+		<file>money.svg</file>
+		<file>money.js</file>
+		<file>resource/c10c.svg</file>
+		<file>resource/n20e.svg</file>
+		<file>resource/carot.svg</file>
+		<file>resource/cerise.svg</file>
+		<file>resource/c5c.svg</file>
+		<file>resource/football.svg</file>
+		<file>resource/apple.svg</file>
+		<file>resource/bicycle.svg</file>
+		<file>resource/n5e.svg</file>
+		<file>resource/banane.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/money2.wav</file>
+		<file>resource/pamplemousse.svg</file>
+		<file>resource/c50c.svg</file>
+		<file>resource/money1.wav</file>
+		<file>resource/c2c.svg</file>
+		<file>resource/tux.svg</file>
+		<file>resource/c1e.svg</file>
+		<file>resource/README</file>
+		<file>resource/umbrella.svg</file>
+		<file>resource/n10e.svg</file>
+		<file>resource/c20c.svg</file>
+		<file>resource/cake.svg</file>
+		<file>resource/pencil.svg</file>
+		<file>resource/c2e.svg</file>
+		<file>resource/orange.svg</file>
+		<file>resource/c1c.svg</file>
+		<file>resource/eggpot.svg</file>
+		<file>resource/n50e.svg</file>
+		<file>resource/bottle.svg</file>
+		<file>resource/lamp.svg</file>
+		<file>resource/light.svg</file>
+	</qresource>
+</RCC>

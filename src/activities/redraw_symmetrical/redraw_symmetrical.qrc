@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/redraw_symmetrical">
+		<file>ActivityInfo.qml</file>
+		<file>RedrawSymmetrical.qml</file>
+		<file>redraw_symmetrical.svg</file>
+	</qresource>
+</RCC>

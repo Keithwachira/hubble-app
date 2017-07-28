@@ -1,0 +1,11 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/clockgame">
+		<file>ActivityInfo.qml</file>
+		<file>Clockgame.qml</file>
+		<file>clockgame.svg</file>
+		<file>clockgame.js</file>
+		<file>resource/clock_setter.svg</file>
+		<file>resource/clock_zones.svg</file>
+		<file>resource/clock_bg.svg</file>
+	</qresource>
+</RCC>

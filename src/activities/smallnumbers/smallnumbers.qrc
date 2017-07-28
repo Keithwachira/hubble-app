@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/smallnumbers">
+		<file>Smallnumbers.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>smallnumbers.svg</file>
+		<file>resource/dice3.svg</file>
+		<file>resource/background.svg</file>
+		<file>resource/dice5.svg</file>
+		<file>resource/dice0.svg</file>
+		<file>resource/dice7.svg</file>
+		<file>resource/dice8.svg</file>
+		<file>resource/default-en.json</file>
+		<file>resource/dice2.svg</file>
+		<file>resource/dice4.svg</file>
+		<file>resource/dice6.svg</file>
+		<file>resource/dice1.svg</file>
+		<file>resource/dice9.svg</file>
+	</qresource>
+</RCC>

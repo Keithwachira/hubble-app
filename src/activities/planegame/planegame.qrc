@@ -1,0 +1,14 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/planegame">
+		<file>Plane.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Cloud.qml</file>
+		<file>Planegame.qml</file>
+		<file>Sequence.qml</file>
+		<file>planegame.svg</file>
+		<file>planegame.js</file>
+		<file>resource/cloud_storm.svg</file>
+		<file>resource/cloud.svg</file>
+		<file>resource/tuxhelico.svg</file>
+	</qresource>
+</RCC>

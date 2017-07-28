@@ -1,0 +1,25 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/balancebox">
+		<file>BalanceItem.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Goal.qml</file>
+		<file>BalanceContact.qml</file>
+		<file>Wall.qml</file>
+		<file>Balancebox.qml</file>
+		<file>balancebox.svg</file>
+		<file>balancebox.js</file>
+		<file>balancebox_common.js</file>
+		<file>resource/button-normal.svg</file>
+		<file>resource/door.svg</file>
+		<file>resource/ball.svg</file>
+		<file>resource/levels-default.json</file>
+		<file>resource/door_closed.svg</file>
+		<file>resource/maze_bg.svg</file>
+		<file>resource/button-pressed.svg</file>
+		<file>resource/hole.svg</file>
+		<file>editor/BalanceboxEditor.qml</file>
+		<file>editor/balanceboxeditor.js</file>
+		<file>editor/EditorTool.qml</file>
+		<file>editor/editor_worker.js</file>
+	</qresource>
+</RCC>
